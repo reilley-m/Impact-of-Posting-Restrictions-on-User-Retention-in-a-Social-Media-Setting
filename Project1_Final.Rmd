@@ -9,7 +9,7 @@ output: word_document
 library(ggplot2)
 library(dplyr)
 library(ggridges)
-retention_dataset <- read.csv("/Users/mariahreilley/Desktop/platform_retention.csv")
+retention_dataset <- read.csv("/Users/Desktop/platform_retention.csv")
 ```
 **Introduction** \n 
  In this report, we review a comprehensive analysis of the impact of posting restriction on user engagement within a social media startup company. Our dataset includes engagement metrics from 90,189 users, each randomly assigned one of two posting models, limited or unlimited. The limited model restricts the user's daily number of posts, while the unlimited offers unrestricted posting. The primary research question of this investigation is whether posting limitation improves 7-day user retention rates in comparison to unrestricted posting. To supplement this inquiry, we are also interested in exploring site visits within the first 7 days of registration between the two models, variations in user retention after the initial day, and any additional significant relationships that could inform our next phase of testing. Through this analysis, we aim to inform site improvements that increase user engagement.
