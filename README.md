@@ -7,7 +7,6 @@ This project explores the effect of limiting the number of posts a user can make
 **Repository Contents:**
 - **`Impact_of_Posting_Restriction_Analysis.Rmd`**: The main R Markdown file containing code, analysis, and visualizations.
 - **`platform_retention.csv`**: The dataset used for analysis.
-- **`visualizations/`**: Directory containing images and plots generated during the analysis.
 - **`README.md`**: Project overview and guidance.
 
 ## Project Motivation
