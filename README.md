@@ -51,7 +51,7 @@ The analysis was conducted in the following steps:
 1. **7-Day Retention**:
    - There is a statistically significant increase in 7-day retention for the limited posting model compared to the unlimited model.
    - **P-value**: 0.00052, indicating strong evidence that limiting posts positively impacts retention.
-   - ![7_day_Retention](visualizations/1_day_retention.png)
+   - ![7_day_Retention](visualizations/7_day_retention_by_user_posting_version.png)
 
 2. **Site Visits**:
    - There was no significant difference in the number of site visits between the two posting models.
